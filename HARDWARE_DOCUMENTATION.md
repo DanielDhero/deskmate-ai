@@ -4,7 +4,7 @@ Dokumen ini merupakan pemenuhan Initial Project Backlog **T-01 (Pengadaan kompon
 
 ---
 
-## 📊 1. Bill of Materials (BOM) & Spesifikasi Komponen Resmi
+## 1. Bill of Materials (BOM) & Spesifikasi Komponen Resmi
 
 Berdasarkan hasil riset komparasi harga dan rating toko (4.9 - 5.0), berikut daftar lengkap komponen elektronik, speaker, rencana casing fisik, dan perkakas bantu untuk pengadaan hardware Xiaozhi AI Desk Robot:
 
@@ -77,7 +77,7 @@ Perancangan catu daya dilakukan tanpa baterai (Desk Robot Type-C direct pass) un
 | INMP441 Mic   |                | MAX98357A DAC | GC9A01 LCD    |
 | Module (I2S)  |                | + Speaker 3W  | 1.28" Round   |
 +---------------+                +---------------+---------------+
-
+```
 ---
 
 ### B. Pinout & Wiring Interconnect Matrix
