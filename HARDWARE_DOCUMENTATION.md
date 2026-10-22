@@ -8,6 +8,9 @@ Dokumen ini merupakan pemenuhan Initial Project Backlog **T-01 (Pengadaan kompon
 
 Berdasarkan hasil riset komparasi harga dan rating toko (4.9 - 5.0), berikut daftar lengkap komponen elektronik, speaker, rencana casing fisik, dan perkakas bantu untuk pengadaan hardware Xiaozhi AI Desk Robot:
 
+> 📁 **Dokumen Tangkapan Layar Komponen:**  
+> [Daftar Komponen & SS Belanja Shopee](https://docs.google.com/document/d/1I73vNSf51nehUgsLfrKjjqcRRP_cEJMayi3WSkrIXMk/edit?usp=sharing)
+
 ### A. Komponen Utama (Eceran Terverifikasi)
 
 1. **Main Processing Unit (MCU):** ESP32-S3 DevKitC-1 N16R8 Type-C (Pre-soldered Header Pins)
@@ -74,6 +77,8 @@ Perancangan catu daya dilakukan tanpa baterai (Desk Robot Type-C direct pass) un
 | INMP441 Mic   |                | MAX98357A DAC | GC9A01 LCD    |
 | Module (I2S)  |                | + Speaker 3W  | 1.28" Round   |
 +---------------+                +---------------+---------------+
+
+---
 
 ### B. Pinout & Wiring Interconnect Matrix
 
